@@ -1,0 +1,17 @@
+{
+  "ver":1.0,
+  "se":{
+    "25":{"url":"https://nodocchi.moe/sound/nodo%28%E5%8E%9F%E6%9D%91%20%E5%92%8C%29/m_200.wav"},
+    "26":{"url":"https://nodocchi.moe/sound/saki%28%E5%AE%AB%E6%B0%B8%20%E5%92%B2%29/m_100.wav"},
+    "27":{"url":"https://nodocchi.moe/sound/nodo%28%E5%8E%9F%E6%9D%91%20%E5%92%8C%29/m_202.wav"},
+    "28":{"url":"https://nodocchi.moe/sound/saki%28%E5%AE%AB%E6%B0%B8%20%E5%92%B2%29/m_102.wav"},
+    "29":{"url":"https://nodocchi.moe/sound/nodo%28%E5%8E%9F%E6%9D%91%20%E5%92%8C%29/m_201.wav"},
+    "30":{"url":"https://nodocchi.moe/sound/saki%28%E5%AE%AB%E6%B0%B8%20%E5%92%B2%29/m_101.wav"},
+    "31":{"url":"https://nodocchi.moe/sound/nodo%28%E5%8E%9F%E6%9D%91%20%E5%92%8C%29/m_203.wav"},
+    "32":{"url":"https://nodocchi.moe/sound/saki%28%E5%AE%AB%E6%B0%B8%20%E5%92%B2%29/m_103.wav"},
+    "33":{"url":"https://nodocchi.moe/sound/nodo%28%E5%8E%9F%E6%9D%91%20%E5%92%8C%29/m_204.wav"},
+    "34":{"url":"https://nodocchi.moe/sound/saki%28%E5%AE%AB%E6%B0%B8%20%E5%92%B2%29/m_104.wav"},
+    "35":{"url":"https://nodocchi.moe/sound/nodo%28%E5%8E%9F%E6%9D%91%20%E5%92%8C%29/m_205.wav"},
+    "36":{"url":"https://nodocchi.moe/sound/saki%28%E5%AE%AB%E6%B0%B8%20%E5%92%B2%29/m_105.wav"}
+  }
+}
